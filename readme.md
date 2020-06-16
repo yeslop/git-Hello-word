@@ -40,3 +40,6 @@ formato
 . [Este es un link de Markdown]("http://www.google.com")
 
 . [Este es un link de index](["index.html"])
+
+# Imagenes
+![logo del titulo](https://tse4.mm.bing.net/th?id=OIP.2q-lb_pibqb8vuj5lqStVAHaD4&pid=Api&P=0&w=311&h=164)
