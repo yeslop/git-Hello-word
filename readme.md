@@ -52,3 +52,29 @@ formato
 | sharick | Bermudes | 17374774 |
 |samuel | solana | 123554 |
 
+# Citas
+
+este es un texto para crear la cita
+>este es una cita.
+
+este este es para hacer otra cita
+>esta es la otra cita
+
+
+# Lineas  Divisoras
+esto es un texto que sera dividido
+
+---
+
+este es otro texto dividido
+
+***
+este otro texto dividido por guiones bajos
+
+___
+ 
+# salto de lineas
+esto es salto de lineas
+
+otro salto de lineas
+
