@@ -12,3 +12,12 @@ underline 2
 ===========
 underline 3
 
+-formato *italica* de la primer forma.
+
+-formato _italica_ de la segunda forma.
+
+-formato **bold o strong**.
+
+-formato __bold o strong__.
+
+-formato ~~tachado~~
