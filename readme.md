@@ -43,3 +43,12 @@ formato
 
 # Imagenes
 ![logo del titulo](https://tse4.mm.bing.net/th?id=OIP.2q-lb_pibqb8vuj5lqStVAHaD4&pid=Api&P=0&w=311&h=164)
+
+# Tablas
+
+| Nombre | Apellido | Documento |
+|------- | -------- | --------- |
+| yesmy | Lopez | 1052355016 |
+| sharick | Bermudes | 17374774 |
+|samuel | solana | 123554 |
+
